@@ -11,5 +11,4 @@ public class Lap1Bai3 {
         double V= a * a * a;
         System.out.println("Thể tích của hình lập phương là:"+V);
     }
-
 }
