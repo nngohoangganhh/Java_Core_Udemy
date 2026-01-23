@@ -13,7 +13,7 @@ public class Lap2 {
             if(score ==-1){
                 continue;
             }
-            if(score < 0 && score > 10 ){
+            if(score < 0 || score > 10 ){
                 System.out.println(" không hợp lệ hãy nhập lại: ");
                 continue;
             }
