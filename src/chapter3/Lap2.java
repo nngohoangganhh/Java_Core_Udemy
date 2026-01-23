@@ -52,6 +52,7 @@ public class Lap2 {
                    } else if (diemTB>= 0 && diemTB< 5) {
                        System.out.println(" Yếu ");
                    }else {
+
                        System.out.println("Không hợp lệ ");
                    }
                    break;
