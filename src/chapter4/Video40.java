@@ -20,6 +20,7 @@ public class Video40 {
              }
          }
 
+
         System.out.println("========================");
         System.out.println(" Tổng các số vừa nhập: " +sum);
         System.out.println(" Số lớn nhất trong mảng là: " +max);
