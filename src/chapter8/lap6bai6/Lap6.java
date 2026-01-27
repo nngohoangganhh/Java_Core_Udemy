@@ -13,6 +13,7 @@ public class Lap6 {
             hihi.work();
             if(hihi instanceof Trainable){
                 Trainable t = (Trainable) hihi; //downcating
+
                 t.attendTraining("Tiếng Hàn");
                 t.feedback();
             }
