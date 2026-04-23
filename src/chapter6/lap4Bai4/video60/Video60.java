@@ -11,4 +11,5 @@ public class Video60 {
       nv1.raiseSalary(6);
       nv1.showInfo();
     }
+
 }

@@ -7,4 +7,5 @@ public class Video56 {
         pro1.display();
         pro2.display();
     }
+
 }

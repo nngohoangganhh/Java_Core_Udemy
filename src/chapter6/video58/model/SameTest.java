@@ -5,4 +5,5 @@ public class SameTest {
         Employee nv1 = new Employee();
         nv1.department = " ";
     }
+
 }

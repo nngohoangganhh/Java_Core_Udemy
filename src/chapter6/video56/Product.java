@@ -8,7 +8,11 @@ public class Product {
         this.price =price;
     }
 
+
     void display(){
         System.out.println(this.name + " : "+ this.price);
     }
+
+
+
 }

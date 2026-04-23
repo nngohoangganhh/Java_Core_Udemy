@@ -7,4 +7,5 @@ public class Student {
     void learnJava(){
         System.out.println("hoc java ahihi");
     }
+
 }

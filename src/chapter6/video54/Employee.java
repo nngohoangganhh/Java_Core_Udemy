@@ -8,4 +8,5 @@ public class Employee {
          System.out.println("Name: "+ this.name);
          System.out.println("Salary : "+this.salary);
      }
+
 }

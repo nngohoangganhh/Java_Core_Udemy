@@ -8,4 +8,5 @@ public class Video52 {
         System.out.println("thoong tin sinnh vien age= " +sinhvien1.age+ " tuoi "+sinhvien1.name);
         sinhvien1.learnJava();
     }
+
 }

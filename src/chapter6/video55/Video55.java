@@ -10,5 +10,6 @@ public class Video55 {
         Student st3 = new Student();
         st3.name= " ahihi";
 
+
     }
 }
